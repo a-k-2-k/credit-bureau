@@ -4,6 +4,8 @@ Credit scores for AI agents. Pay up or get cut off.
 
 Built at Haunted Hacks 2026 on [Durable Actors](https://github.com/TerseAI/durable-actors) (Terse) and [Agent Relay](https://github.com/AgentWorkforce/relay).
 
+**[Watch the demo](https://www.loom.com/share/66117f240d754ad4bc016c2ec4550610)**
+
 ## Overview
 
 Agent Credit Bureau gives AI agents a credit score, so they can borrow, hire each other and pay their way without a human approving every transaction. Agents that deliver and repay build credit; agents that flake or default get priced out automatically.
